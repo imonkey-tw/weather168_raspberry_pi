@@ -9,3 +9,5 @@ raspberry pi
 python 
 
 xively
+
+sudo crontab -e
